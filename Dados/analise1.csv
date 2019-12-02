@@ -1,0 +1,43 @@
+Algorithm,Length,Cost,Time,Dist_Type
+Twice around the tree,16,70.77212461945001,0.0007221698760986328,Euclidean
+Twice around the tree,16,114,0.0005865097045898438,Manhattan
+Christofides,16,66.40268780197084,0.001888275146484375,Euclidean
+Christofides,16,94,0.002285480499267578,Manhattan
+Branch-and-Bound,16,66.40268780197084,7.043980121612549,Euclidean
+Branch-and-Bound,16,84,22.932960033416748,Manhattan
+Twice around the tree,32,131.22909514385054,0.002260923385620117,Euclidean
+Twice around the tree,32,158,0.0021347999572753906,Manhattan
+Christofides,32,110.95225764085863,0.029295921325683594,Euclidean
+Christofides,32,140,0.01843547821044922,Manhattan
+Branch-and-Bound,32,NA,Limit_exceed,Euclidean
+Branch-and-Bound,32,NA,Limit_exceed,Manhattan
+Twice around the tree,64,171.619024834784,0.01149892807006836,Euclidean
+Twice around the tree,64,228,0.01005864143371582,Manhattan
+Christofides,64,144.4569661493128,0.07197976112365723,Euclidean
+Christofides,64,176,0.06210494041442871,Manhattan
+Branch-and-Bound,64,NA,Limit_exceed,Euclidean
+Branch-and-Bound,64,NA,Limit_exceed,Manhattan
+Twice around the tree,128,233.1171462205093,0.09121370315551758,Euclidean
+Twice around the tree,128,290,0.06041455268859863,Manhattan
+Christofides,128,196.53027001106128,0.3832271099090576,Euclidean
+Christofides,128,238,0.3435795307159424,Manhattan
+Branch-and-Bound,128,NA,Limit_exceed,Euclidean
+Branch-and-Bound,128,NA,Limit_exceed,Manhattan
+Twice around the tree,256,313.7032444697794,0.430757999420166,Euclidean
+Twice around the tree,256,402,0.3812739849090576,Manhattan
+Christofides,256,258.3474926733321,2.0799014568328857,Euclidean
+Christofides,256,298,2.074967861175537,Manhattan
+Branch-and-Bound,256,NA,Limit_exceed,Euclidean
+Branch-and-Bound,256,NA,Limit_exceed,Manhattan
+Twice around the tree,512,434.9269356810361,2.973367214202881,Euclidean
+Twice around the tree,512,490,2.8729543685913086,Manhattan
+Christofides,512,367.7237192426326,28.4244487285614,Euclidean
+Christofides,512,396,27.92041254043579,Manhattan
+Branch-and-Bound,512,NA,Limit_exceed,Euclidean
+Branch-and-Bound,512,NA,Limit_exceed,Manhattan
+Twice around the tree,1024,616.8905437083768,23.655616283416748,Euclidean
+Twice around the tree,1024,662,23.219179153442383,Manhattan
+Christofides,1024,469.2899385556411,309.1754777431488,Euclidean
+Christofides,1024,496,307.3608913421631,Manhattan
+Branch-and-Bound,1024,NA,Limit_exceed,Euclidean
+Branch-and-Bound,1024,NA,Limit_exceed,Manhattan

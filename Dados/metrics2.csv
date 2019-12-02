@@ -1,0 +1,5 @@
+Algorithm,Mean,Std,Dist_Type
+Twice around the tree,12.973047256469727,7.184640407562256,Euclidean
+Christofides,4.369021415710449,2.8124191761016846,Euclidean
+Twice around the tree,18.133333206176758,7.945049285888672,Manhattan
+Christofides,6.0,5.237229347229004,Manhattan
